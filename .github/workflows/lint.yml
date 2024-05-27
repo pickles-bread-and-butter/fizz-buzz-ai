@@ -29,5 +29,5 @@ jobs:
         run: cargo clippy
       
       - name: Run Linter Buzz_CLI
-        run: cargo clippy buzz_cli
+        run: cargo clippy
 
