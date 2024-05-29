@@ -4,8 +4,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Fizz Buzz has been described as the hardest problem in computer science.
   With Fizz Buzz AI an attempt is being made to solve this unsolvable problem
   with the most advanced methods.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/fizz-buzz-ai" # the subpath of your site, e.g. /blog
+url: "https://pickles-bread-and-butter.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  pickles-bread-and-butter
 
 # Build settings
