@@ -2,7 +2,7 @@ name: Jekyll Docs Deployment
 
 on:
   push:
-    branches: ["feature/isaak/initial-setup"]
+    branches: ["main"]
 
     workflow_dispatch:
 
