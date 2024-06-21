@@ -1,0 +1,4 @@
+*target*
+.jekyll-cache
+_site
+_build
